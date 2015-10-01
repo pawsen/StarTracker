@@ -1,0 +1,9 @@
+build*/
+*~
+*.pyc
+data/
+GPATH
+GRTAGS
+GTAGS
+TAGS
+\#*#

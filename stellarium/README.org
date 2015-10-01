@@ -1,0 +1,3 @@
+* Telescope control using python and stellarium
+** links
+http://yoestuveaqui.es/blog/communications-between-python-and-stellarium-stellarium-telescope-protocol/
